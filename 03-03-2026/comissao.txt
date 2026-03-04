@@ -1,0 +1,33 @@
+Leia: o nome de um vendedor, o seu salário fixo, o valor total de vendas dele no mês e calcule 15% de comissão das vendas. Exibir no final o nome, 
+o salário fixo e salário total mais comissão.
+
+
+ALGORIMO<comissao>
+
+var 
+
+nome  =  string;
+salario =  float;
+vendas = int;
+comissao= float;
+salarioComissao  = float;
+
+escreva ("digite o seu nome :");
+leia nome;
+
+escreva ("digite o seu salário:");
+leia salario;
+
+escreva("digite o total de vendas : ");
+leia vendas;
+
+comissao = (salario *  0.15)* vendas ;
+salarioComissao = salario + comissao;
+
+
+escreva (" O vededor : " , nome  );
+escreva (" Saláro fixo : " , salario  );
+escreva (" Saláro total : " , salarioComissao);
+escreva (" Comissão : " , comissao  );
+
+fim

@@ -1,0 +1,32 @@
+Ler dois valores ex: A e  B, e efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor 
+da variável A. Exibir o resultado fina
+
+
+ALGORIMO<trocaValores >
+
+var 
+
+A =  string;
+B = strig;
+
+
+
+escreva ("digite a variável A :");
+leia A;
+
+escreva("digite a variável B: ");
+leia B;
+
+
+A = B;
+
+escreva("o valor da variávl A é :" , B)
+
+B = A;
+s
+escreva("o valor da variávl B é :" , A)
+
+fim
+
+//
+

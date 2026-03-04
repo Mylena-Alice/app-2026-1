@@ -1,0 +1,29 @@
+ALGORIMO<valores>
+
+num1 =  int;
+num2 = float;
+palavra  =  string;
+boleano = tf;
+
+escreva ("digite um  número inteiro:");
+leia num1;
+
+escreva("digite um número real ");
+leia num2;
+
+escreva ("digite uma palava:");
+leia palavra;
+
+escreva ("digite verdadeiro ou falso :");
+leia boleano;
+
+escreva ("os  valores são:");
+escreva ("número inteiro:", num1);
+escreva ("número real:" , num2);
+escreva ("palavra:" , palavra);
+escreva ("boleano:" , boleano);
+
+fim
+
+//
+

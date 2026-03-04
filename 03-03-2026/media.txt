@@ -1,0 +1,32 @@
+ALGORIMO<media>
+
+var 
+
+num1 =  float;
+num2 = float;
+num3 = float;
+nome  =  string;
+media: float;
+
+
+escreva ("digite o seu nome :");
+leia nome;
+
+escreva ("digite o valor  da primeira prova:");
+leia num1;
+
+escreva("digite o valor  da segunda  prova: ");
+leia num2;
+
+escreva("digite o valor  da terceira prova: ");
+leia num3;
+
+escreva ("digite uma palava:");
+leia palavra;
+
+media = (num1   + num2 + num3 )/3
+
+escreva (" O aluno : " , nome ,"ficou com a média :" , media )
+
+
+fim

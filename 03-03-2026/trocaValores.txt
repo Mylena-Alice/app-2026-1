@@ -8,6 +8,7 @@ var
 
 A =  string;
 B = strig;
+temoporaria = string ;
 
 
 
@@ -17,14 +18,15 @@ leia A;
 escreva("digite a variável B: ");
 leia B;
 
-
+temoporaria = A ;
 A = B;
+B = temoporaria;
 
-escreva("o valor da variávl A é :" , B)
+escreva("o valor da variávl A é :" , A)
 
 B = A;
 s
-escreva("o valor da variávl B é :" , A)
+escreva("o valor da variávl B é :" , B)
 
 fim
 
